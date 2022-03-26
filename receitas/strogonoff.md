@@ -28,5 +28,7 @@
 
 6. Tópico adicionado diretem no GitHub
 
-7. topico 7 adicionado rep local
+7. tópico 7 adicionado rep local
+
+9. tópico 9 add via rep local
 
